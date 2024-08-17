@@ -15,16 +15,6 @@ This project is a demo application modeled after Myntra, featuring essential e-c
 - **State Management**: Redux
 - **Backend**: RESTful APIs for dynamic data fetching
 
-## Demo
-
-- **GitHub Repository**: [Myntra Project](https://github.com/hrithik001/myntra-project)
-- **YouTube Video**: [Demo Video](https://youtu.be/cnTTTAtmv-0)
-
-5. **Checkout**: Proceed to checkout to see the total cost and receipt.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
 
 
 ![image](https://github.com/user-attachments/assets/914698e9-0e41-4b75-a4ae-be377a63567d)
